@@ -1,5 +1,7 @@
 <h1 align="center" style="color:#8A2BE2;">Hello, Word! I'm Bia Ordine, be very welcome! 🩷</h1>
 <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=Desenvolvedora+em+ascensão;Apaixonada+por+tecnologia+e+impacto+social;Criando+com+propósito+e+estilo!" alt="Typing SVG" />
+</p>
 
 ---
 
