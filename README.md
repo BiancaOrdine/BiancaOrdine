@@ -1,41 +1,55 @@
 ## Hello, Word. I'm Bia Ordine, bem very welcome!!! 🤎
 
 <p align="center">
-🌱 Iniciante apaixonada por tecnologia e em constante evolução.  
-🎯 Buscando transformar curiosidade em soluções reais com código.  
-💡 Acredito em tecnologia com propósito.
+💻 Iniciante em T.I. | 🌸 Apaixonada por aprender | ☕ Viciada em café com código 
 </p>
 
 ---
 
-### 👩‍💻 Sobre mim
+### Sobre mim
 
-- 💻 Atualmente estudando **Análise de Desenvolvimento de Sistemas** pelo SENAI
-- 📘 Explorando **HTML, CSS, JavaScript** e um pouco de **Git/GitHub**
-- 🤝 Aberta a colaborar em projetos simples, estudos ou iniciativas sociais
-- 🌍 Interesso-me por acessibilidade digital, boas práticas e impacto positivo
-
----
-
-### 🛠️ Tecnologias em aprendizado
-
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=fff)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=fff)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
+- Estudando desenvolvimento web com foco em **HTML, CSS e JavaScript**
+- Aprendendo com curiosidade, errando com leveza e evoluindo com propósito
+- Construindo projetos simples com muito carinho (e console.log 😅)
+- Sonhando com tecnologia que transforma realidades
 
 ---
 
-### 📈 GitHub Stats
+### 💖 Atualmente aprendendo:
 
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=biancaordine&show_icons=true&theme=dracula&hide_border=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biancaordine&layout=compact&theme=dracula&hide_border=true"/>
-</div>
+![HTML](https://img.shields.io/badge/-HTML-F28AB2?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-FF69B4?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-FDCBFC?style=for-the-badge&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/-Git-F78DA7?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-ffb3d9?style=for-the-badge&logo=github&logoColor=black)
 
 ---
 
-### 🌐 Onde me encontrar
+### 🎯 Meus objetivos por agora:
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/biancaordine)  
+- Criar meu primeiro portfólio com orgulho 💅
+- Contribuir com projetos pequenos ou desafios de código
+- Aprender com a comunidade (e quem sabe inspirar outras mulheres a entrarem na T.I. 💖)
+
+---
+
+### Um toque de mim:
+
+> _“Não nasci sabendo, mas nasci curiosa. E isso já me leva longe.”_ ✨  
+> _— Bianca Ordine_
+
+---
+
+### 📫 Onde me encontrar:
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/biancaordine)  
+<!-- Adicione seu portfólio quando estiver pronto -->
+<!-- [![Portfólio](https://img.shields.io/badge/-Portfólio-F78DA7?style=for-the-badge&logo=codepen&logoColor=white)](https://biancaordine.dev) -->
+
+---
+
+---
+
+<p align="center">
+  Feito com 💗 por Bianca Ordine
+</p>
