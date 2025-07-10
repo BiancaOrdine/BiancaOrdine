@@ -1,8 +1,6 @@
 <h1 align="center" style="color:#8A2BE2;">Hello, Word! I'm Bia Ordine, be very welcome! 🩷</h1>
 <p align="center">
-<img align="right" height="150em" src="https://i.pinimg.com/originals/8d/8a/6e/8d8a6eb2caa1a0c2e56a8800cf4c6b6b.gif"/>
-
-    <!-- <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=Desenvolvedora+em+formação;Criando+projetos+com+impacto+social;Estilo%2C+tecnologia+e+propósito!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=Desenvolvedora+em+formação;Criando+projetos+com+impacto+social;Estilo%2C+tecnologia+e+propósito!" alt="Typing SVG" />
 </p>
 
 
