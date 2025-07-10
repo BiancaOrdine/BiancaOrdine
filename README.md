@@ -3,86 +3,95 @@
 <h1 align="center" style="color:#8A2BE2;">I'm Bia Ordine, be very welcome!</h1>
 <p align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=FF69B4&center=true&vCenter=true&width=380&lines=Dev+em+formação;Criativa+e+curiosa;Tecnologia+com+propósito+💡" alt="Typing SVG" />
+ <h1 align="center" style="color:#FF69B4;">💻 Bianca Ordine</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=Desenvolvedora+em+formação;Criando+projetos+com+impacto+social;Estilo%2C+tecnologia+e+propósito!" alt="Typing SVG" />
 </p>
 
 ---
 
-### 💁‍♀️ Sobre
-
-Oi! Eu sou a **Bianca**, estudante de **Desenvolvimento de Sistemas (SENAI)** e do **3º ano no SESI**.  
-Tenho 17 anos, já desenvolvo sistemas reais com foco em **design bonito, utilidade social** e um toque de estilo 💖  
-Crio apps, sites e sistemas para ajudar pessoas e negócios locais a se conectarem com o digital.  
-
----
-
-### 🛠️ Tecnologias que uso
+### 🧠 Sobre mim
 
 <div align="center">
 
-<a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank">
-  <img height="45" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/ff69b4/external-html5-logo-for-the-use-of-html-5-websites-and-mobile-applications-logo-color-tal-revivo.png" alt="HTML5" />
-</a>&nbsp;&nbsp;
-<a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank">
-  <img height="45" src="https://img.icons8.com/color/96/ff69b4/css3.png" alt="CSS3" />
-</a>&nbsp;&nbsp;
-<a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank">
-  <img height="45" src="https://img.icons8.com/color/96/ff69b4/javascript--v1.png" alt="JavaScript" />
-</a>&nbsp;&nbsp;
-<a href="https://flutter.dev" target="_blank">
-  <img height="45" src="https://img.icons8.com/color/96/ff69b4/flutter.png" alt="Flutter" />
-</a>&nbsp;&nbsp;
-<a href="https://dart.dev" target="_blank">
-  <img height="45" src="https://img.icons8.com/color/96/ff69b4/dart.png" alt="Dart" />
-</a>&nbsp;&nbsp;
-<a href="https://firebase.google.com/" target="_blank">
-  <img height="45" src="https://img.icons8.com/color/96/ff69b4/firebase.png" alt="Firebase" />
-</a>&nbsp;&nbsp;
-<a href="https://git-scm.com" target="_blank">
-  <img height="45" src="https://img.icons8.com/color/96/ff69b4/git.png" alt="Git" />
-</a>&nbsp;&nbsp;
-<a href="https://www.figma.com" target="_blank">
-  <img height="45" src="https://img.icons8.com/color/96/ff69b4/figma--v1.png" alt="Figma" />
+<img src="https://media.giphy.com/media/l0HUpt2s9Pclgt9Vm/giphy.gif" width="200"/>
+
+</div>
+
+<div align="center">
+
+Sou a <strong>Bianca Ordine</strong>, estudante de <strong>Desenvolvimento de Sistemas (SENAI)</strong> e do <strong>3º ano do Ensino Médio (SESI)</strong>.  
+Mesmo com apenas 17 anos, já desenvolvo aplicações reais, com atenção a cada detalhe técnico e estético.  
+Acredito que a tecnologia é uma ferramenta para <strong>expressar ideias, resolver problemas reais</strong> e transformar realidades.  
+Atualmente, busco oportunidades para criar sites para pequenos negócios e projetos com <strong>impacto humano e social</strong>.  
+
+</div>
+
+---
+
+### 🛠️ Habilidades & Ferramentas
+
+<div align="center">
+
+![HTML5](https://img.shields.io/badge/-HTML5-FF69B4?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-FF69B4?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-FF69B4?style=flat&logo=javascript&logoColor=white)
+![Flutter](https://img.shields.io/badge/-Flutter-FF69B4?style=flat&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/-Dart-FF69B4?style=flat&logo=dart&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FF69B4?style=flat&logo=firebase&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-FF69B4?style=flat&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-FF69B4?style=flat&logo=figma&logoColor=white)
+
+</div>
+
+---
+
+### 📌 Projetos em destaque
+
+| Projeto | Descrição | Tecnologias |
+|--------|-----------|--------------|
+| **Frases do Dia** | App motivacional com frases aleatórias, em Flutter. | Flutter, Dart |
+| **Sistema de Agendamento SENAI** | WebApp para agendamento com analista de qualidade de vida. | HTML, CSS, JS, Firebase |
+| **Sites para Microempreendedores** | Desenvolvimento de sites modernos para MEIs. | Front-End Responsivo |
+
+---
+
+### 📈 Estatísticas GitHub
+
+<div align="center">
+
+![Bianca's GitHub Stats](https://github-readme-stats.vercel.app/api?username=biancaordine&show_icons=true&theme=radical&title_color=FF69B4&icon_color=FF69B4&text_color=ffffff&bg_color=00000000)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=biancaordine&layout=compact&theme=radical&title_color=FF69B4&text_color=ffffff&bg_color=00000000)
+
+</div>
+
+---
+
+### 🤝 Conecte-se comigo
+
+<div align="center">
+
+<a href="mailto:bianca.ordine@gmail.com">
+  <img src="https://img.shields.io/badge/-Email-FF69B4?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/bianca-ordine/">
+  <img src="https://img.shields.io/badge/-LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://github.com/biancaordine">
+  <img src="https://img.shields.io/badge/-GitHub-FF69B4?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
-### 💡 Projetos principais
-
-| 💼 Projeto | ✨ Descrição |
-|-----------|-------------|
-| **Frases do Dia** | App em Flutter com mensagens motivacionais simples e rápidas |
-| **Agendamento SENAI** | WebApp para organização de atendimentos com o analista de qualidade de vida |
-| **Sites para MEIs** | Criação de sites personalizados e responsivos para pequenos empreendedores |
-
----
-
-### 📊 GitHub Stats
-
 <div align="center">
 
-![Bianca's GitHub Stats](https://github-readme-stats.vercel.app/api?username=biancaordine&show_icons=true&theme=rose_pine&title_color=FF69B4&icon_color=FF69B4&text_color=ffffff&bg_color=00000000)
+✨ Obrigada por visitar meu perfil!  
+<i>"Código com propósito. Design com essência."</i>
 
-</div>
-
----
-
-### 📬 Onde me encontrar?
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/-Email-FF69B4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bianca.ordine@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bianca-ordine/)
-[![GitHub](https://img.shields.io/badge/-GitHub-FF69B4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/biancaordine)
-
-</div>
-
----
-
-<p align="center">
-💫 <i>"Tecnologia com alma, design com intenção."</i>  
 <br/><br/>
 <img src="https://capsule-render.vercel.app/api?type=wave&color=FF69B4&height=100&section=footer"/>
-</p>
+
+</div>
