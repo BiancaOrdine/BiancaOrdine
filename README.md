@@ -1,18 +1,23 @@
 <h1 align="center" style="color:#8A2BE2;">Hello, Word! I'm Bia Ordine, be very welcome! 🩷</h1>
 <p align="center">
-  <img src="" />
-</p>
 
 ---
 
 ###  🌸 Sobre mim
+<div align="center">
 
-img align="right" height="150em" src="https://i.pinimg.com/originals/8d/8a/6e/8d8a6eb2caa1a0c2e56a8800cf4c6b6b.gif"/>
+<img src="https://media.giphy.com/media/l0HUpt2s9Pclgt9Vm/giphy.gif" width="200"/>
 
-Olá! Eu sou a **Bia Ordine**, estudante de Desenvolvimento de Sistemas no **SENAI** e do 3º ano no **SESI**. Tenho 17 anos, mas já estou trilhando minha jornada na programação com muita criatividade, foco e um toque de rosa 💗
+</div>
 
+<div align="center">
 
+Sou a <strong>Bianca Ordine</strong>, estudante de <strong>Desenvolvimento de Sistemas (SENAI)</strong> e do <strong>3º ano do Ensino Médio (SESI)</strong>.  
+Mesmo com apenas 17 anos, já desenvolvo aplicações reais, com atenção a cada detalhe técnico e estético.  
+Acredito que a tecnologia é uma ferramenta para **expressar ideias, resolver problemas reais** e transformar realidades.  
+Atualmente, busco oportunidades para criar sites para pequenos negócios e projetos com **impacto humano e social**.  
 
+</div>
 ---
 
 ### ⚙️ Habilidades & Ferramentas
