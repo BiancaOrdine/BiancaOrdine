@@ -3,64 +3,65 @@
 <h1 align="center" style="color:#8A2BE2;">I'm Bia Ordine, be very welcome!</h1>
 <p align="center">
   
-<h1 align="center" style="color:#ff69b4;">✨ Oi, eu sou a Bianca Ordine! ✨</h1>
-
-<p align="center">
-💻 Iniciante em T.I. | 🌸 Apaixonada por aprender | ☕ Viciada em café com código  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=8A2BE2&center=true&vCenter=true&width=380&lines=Dev+em+formação;Apaixonada+por+tecnologia;Criando+com+propósito+💡" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🌷 Sobre mim
+### 🧬 Sobre
 
-- 🎓 Estudando desenvolvimento web com foco em **HTML, CSS e JavaScript**
-- 🧠 Aprendendo com curiosidade, errando com leveza e evoluindo com propósito
-- 🛠️ Construindo projetos simples com muito carinho (e console.log 😅)
-- 🌍 Sonhando com tecnologia que transforma realidades
-
----
-
-### 💖 Atualmente aprendendo:
-
-![HTML](https://img.shields.io/badge/-HTML-F28AB2?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-FF69B4?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-FDCBFC?style=for-the-badge&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/-Git-F78DA7?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-ffb3d9?style=for-the-badge&logo=github&logoColor=black)
+Olá! Sou a **Bianca**, desenvolvedora em formação no **SENAI** e estudante do **3º ano do SESI**.  
+Atuo criando sites, apps e sistemas com foco em **impacto social**, estética e funcionalidade.  
+Tenho 17 anos e já desenvolvi projetos reais com tecnologias modernas, sempre com um toque original.  
 
 ---
 
-### 🎯 Meus objetivos por agora:
+### ⚙️ Tecnologias
 
-- Criar meu primeiro portfólio com orgulho 💅
-- Contribuir com projetos pequenos ou desafios de código
-- Aprender com a comunidade (e quem sabe inspirar outras mulheres a entrarem na T.I. 💖)
+<div align="center">
 
----
+🟣 `HTML` • `CSS` • `JavaScript`  
+🟣 `Flutter` • `Dart` • `Firebase`  
+🟣 `Git` • `Figma` • `UI/UX`  
 
-### 🌸 Um toque de mim:
-
-> _“Não nasci sabendo, mas nasci curiosa. E isso já me leva longe.”_ ✨  
-> _— Bianca Ordine_
+</div>
 
 ---
 
-### 📫 Onde me encontrar:
+### 🛠️ Projetos
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/biancaordine)  
-<!-- Adicione seu portfólio quando estiver pronto -->
-<!-- [![Portfólio](https://img.shields.io/badge/-Portfólio-F78DA7?style=for-the-badge&logo=codepen&logoColor=white)](https://biancaordine.dev) -->
+| 💼 Projeto | ⚡ Descrição |
+|-----------|-------------|
+| `Frases do Dia` | App leve e motivacional com Flutter |
+| `TCC - Agendamentos` | WebApp para atendimentos no SENAI |
+| `Sites para MEIs` | Criação de sites modernos para negócios locais |
 
 ---
 
-### 🧁 Fun facts sobre mim:
+### 🚀 Stats
 
-- Amo playlists lo-fi enquanto codifico 🎧
-- Gosto de organizar tudo em Notion (ou pelo menos tento 😅)
-- Meu humor padrão: “if (erro) { café(); }” ☕
+<div align="center">
+
+![Bianca's GitHub Stats](https://github-readme-stats.vercel.app/api?username=biancaordine&show_icons=true&theme=tokyonight&title_color=8A2BE2&icon_color=8A2BE2&text_color=ffffff&bg_color=00000000)
+
+</div>
+
+---
+
+### 📬 Contato
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/-Email-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bianca.ordine@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bianca-ordine/)
+[![GitHub](https://img.shields.io/badge/-GitHub-8A2BE2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/biancaordine)
+
+</div>
 
 ---
 
 <p align="center">
-  Feito com 💗 por Bianca Ordine
+🌌 <i>"Criando com propósito e estilo."</i>  
+<br/><br/>
+<img src="https://capsule-render.vercel.app/api?type=wave&color=8A2BE2&height=100&section=footer"/>
 </p>
