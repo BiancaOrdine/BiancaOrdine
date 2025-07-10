@@ -1,35 +1,22 @@
-## Hello, Word! 💜
-
-<h1 align="center" style="color:#8A2BE2;">I'm Bia Ordine, be very welcome!</h1>
+<h1 align="center" style="color:#8A2BE2;">Hello, Word! I'm Bia Ordine, be very welcome! 🩷</h1>
 <p align="center">
-
- <h1 align="center" style="color:#FF69B4;">💻 Bianca Ordine</h1>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=Desenvolvedora+em+formação;Criando+projetos+com+impacto+social;Estilo%2C+tecnologia+e+propósito!" alt="Typing SVG" />
+  <img src="" />
 </p>
 
 ---
 
-### 🧠 Sobre mim
+###  🌸 Sobre mim
+img align="right" height="150em" src="https://i.pinimg.com/originals/8d/8a/6e/8d8a6eb2caa1a0c2e56a8800cf4c6b6b.gif"/>
 
-<div align="center">
+### 🌸 Sobre mim
 
-<img src="https://media.giphy.com/media/l0HUpt2s9Pclgt9Vm/giphy.gif" width="200"/>
+Olá! Eu sou a **Bia Ordine**, estudante de Desenvolvimento de Sistemas no **SENAI** e do 3º ano no **SESI**. Tenho 17 anos, mas já estou trilhando minha jornada na programação com muita criatividade, foco e um toque de rosa 💗
 
-</div>
 
-<div align="center">
-
-Sou a <strong>Bianca Ordine</strong>, estudante de <strong>Desenvolvimento de Sistemas (SENAI)</strong> e do <strong>3º ano do Ensino Médio (SESI)</strong>.  
-Mesmo com apenas 17 anos, já desenvolvo aplicações reais, com atenção a cada detalhe técnico e estético.  
-Acredito que a tecnologia é uma ferramenta para <strong>expressar ideias, resolver problemas reais</strong> e transformar realidades.  
-Atualmente, busco oportunidades para criar sites para pequenos negócios e projetos com <strong>impacto humano e social</strong>.  
-
-</div>
 
 ---
 
-### 🛠️ Habilidades & Ferramentas
+### ⚙️ Habilidades & Ferramentas
 
 <div align="center">
 
@@ -45,8 +32,8 @@ Atualmente, busco oportunidades para criar sites para pequenos negócios e proje
 </div>
 
 ---
-
-### 📌 Projetos em destaque
+<!--
+ ### 📌 Projetos em destaque
 
 | Projeto | Descrição | Tecnologias |
 |--------|-----------|--------------|
@@ -55,6 +42,7 @@ Atualmente, busco oportunidades para criar sites para pequenos negócios e proje
 | **Sites para Microempreendedores** | Desenvolvimento de sites modernos para MEIs. | Front-End Responsivo |
 
 ---
+-->
 
 ### 📈 Estatísticas GitHub
 
@@ -72,13 +60,13 @@ Atualmente, busco oportunidades para criar sites para pequenos negócios e proje
 
 <div align="center">
 
-<a href="mailto:bianca.ordine@gmail.com">
+<a href="mailto:ordinebianca@gmail.com">
   <img src="https://img.shields.io/badge/-Email-FF69B4?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://www.linkedin.com/in/bianca-ordine/">
   <img src="https://img.shields.io/badge/-LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="https://github.com/biancaordine">
+<a href="https://github.com/BiancaOrdine">
   <img src="https://img.shields.io/badge/-GitHub-FF69B4?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -88,10 +76,19 @@ Atualmente, busco oportunidades para criar sites para pequenos negócios e proje
 
 <div align="center">
 
-✨ Obrigada por visitar meu perfil!  
-<i>"Código com propósito. Design com essência."</i>
+### 🌸 Um toque de mim:
+
+> _"O que não me mata, me fortalece."_ ✨  
+> _— Friedrich Nietzsche _ 
+---
 
 <br/><br/>
 <img src="https://capsule-render.vercel.app/api?type=wave&color=FF69B4&height=100&section=footer"/>
 
 </div>
+
+---
+
+<p align="center">
+  Feito com 🩷 por Bia Ordine
+</p>
