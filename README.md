@@ -2,6 +2,7 @@
 
 <h1 align="center" style="color:#8A2BE2;">I'm Bia Ordine, be very welcome!</h1>
 <p align="center">
+
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=FF69B4&center=true&vCenter=true&width=380&lines=Dev+em+formação;Criativa+e+curiosa;Tecnologia+com+propósito+💡" alt="Typing SVG" />
 </p>
 
@@ -20,28 +21,28 @@ Crio apps, sites e sistemas para ajudar pessoas e negócios locais a se conectar
 <div align="center">
 
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank">
-  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" />
+  <img height="45" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/ff69b4/external-html5-logo-for-the-use-of-html-5-websites-and-mobile-applications-logo-color-tal-revivo.png" alt="HTML5" />
 </a>&nbsp;&nbsp;
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank">
-  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" />
+  <img height="45" src="https://img.icons8.com/color/96/ff69b4/css3.png" alt="CSS3" />
 </a>&nbsp;&nbsp;
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank">
-  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" />
+  <img height="45" src="https://img.icons8.com/color/96/ff69b4/javascript--v1.png" alt="JavaScript" />
 </a>&nbsp;&nbsp;
 <a href="https://flutter.dev" target="_blank">
-  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" />
+  <img height="45" src="https://img.icons8.com/color/96/ff69b4/flutter.png" alt="Flutter" />
 </a>&nbsp;&nbsp;
 <a href="https://dart.dev" target="_blank">
-  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Dart" />
+  <img height="45" src="https://img.icons8.com/color/96/ff69b4/dart.png" alt="Dart" />
 </a>&nbsp;&nbsp;
 <a href="https://firebase.google.com/" target="_blank">
-  <img height="40" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" />
+  <img height="45" src="https://img.icons8.com/color/96/ff69b4/firebase.png" alt="Firebase" />
 </a>&nbsp;&nbsp;
 <a href="https://git-scm.com" target="_blank">
-  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" />
+  <img height="45" src="https://img.icons8.com/color/96/ff69b4/git.png" alt="Git" />
 </a>&nbsp;&nbsp;
 <a href="https://www.figma.com" target="_blank">
-  <img height="40" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" />
+  <img height="45" src="https://img.icons8.com/color/96/ff69b4/figma--v1.png" alt="Figma" />
 </a>
 
 </div>
@@ -85,4 +86,3 @@ Crio apps, sites e sistemas para ajudar pessoas e negócios locais a se conectar
 <br/><br/>
 <img src="https://capsule-render.vercel.app/api?type=wave&color=FF69B4&height=100&section=footer"/>
 </p>
-
