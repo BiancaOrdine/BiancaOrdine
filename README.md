@@ -25,6 +25,7 @@ Olá! Eu sou a **Bianca**, estudante de Desenvolvimento de Sistemas no **SENAI**
 ![Flutter](https://img.shields.io/badge/-Flutter-FF69B4?style=flat&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/-Dart-FF69B4?style=flat&logo=dart&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-FF69B4?style=flat&logo=figma&logoColor=white)
+![Power BI](https://img.shields.io/badge/-Power%20BI-FF69B4?style=flat&logo=power-bi&logoColor=white)
 
 </div>
 
