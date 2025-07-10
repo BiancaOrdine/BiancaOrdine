@@ -6,9 +6,8 @@
 ---
 
 ###  🌸 Sobre mim
-img align="right" height="150em" src="https://i.pinimg.com/originals/8d/8a/6e/8d8a6eb2caa1a0c2e56a8800cf4c6b6b.gif"/>
 
-### 🌸 Sobre mim
+img align="right" height="150em" src="https://i.pinimg.com/originals/8d/8a/6e/8d8a6eb2caa1a0c2e56a8800cf4c6b6b.gif"/>
 
 Olá! Eu sou a **Bia Ordine**, estudante de Desenvolvimento de Sistemas no **SENAI** e do 3º ano no **SESI**. Tenho 17 anos, mas já estou trilhando minha jornada na programação com muita criatividade, foco e um toque de rosa 💗
 
