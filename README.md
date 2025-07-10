@@ -24,7 +24,6 @@ Olá! Eu sou a **Bianca**, estudante de Desenvolvimento de Sistemas no **SENAI**
 ![JavaScript](https://img.shields.io/badge/-JavaScript-FF69B4?style=flat&logo=javascript&logoColor=white)
 ![Flutter](https://img.shields.io/badge/-Flutter-FF69B4?style=flat&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/-Dart-FF69B4?style=flat&logo=dart&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FF69B4?style=flat&logo=firebase&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-FF69B4?style=flat&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-FF69B4?style=flat&logo=figma&logoColor=white)
 
