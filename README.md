@@ -8,14 +8,14 @@
 
 <img align="right" height="150em" src="https://i.pinimg.com/originals/8d/8a/6e/8d8a6eb2caa1a0c2e56a8800cf4c6b6b.gif"/>
 
-### 🌸 Sobre mim
+### 🌸 About me
 
-Olá! Eu sou a **Bia Ordine**, estudante de Desenvolvimento de Sistemas no **SENAI** e do 3º ano no **SESI**. Tenho 17 anos, mas já estou trilhando minha jornada na programação com muita criatividade, foco e um toque de rosa 💗
+I'm **Bia Ordine**, a Systems Development student at **SENAI** and a third-year student at **SESI**. I'm 17 years old, but I'm already on my programming journey with a lot of creativity, focus and a touch of pink 💗
 
 
 ---
 
-### ⚙️ Habilidades & Ferramentas
+### ⚙️ Skills & Tools
 
 <div align="center">
 
@@ -42,7 +42,7 @@ Olá! Eu sou a **Bia Ordine**, estudante de Desenvolvimento de Sistemas no **SEN
 ---
 -->
 
-### 📈 Estatísticas GitHub
+### 📈 GitHub Statistics
 
 <div align="center">
 
@@ -54,7 +54,7 @@ Olá! Eu sou a **Bia Ordine**, estudante de Desenvolvimento de Sistemas no **SEN
 
 ---
 
-### 🤝 Conecte-se comigo
+### 🤝 Talk To Me
 
 <div align="center">
 
@@ -74,9 +74,9 @@ Olá! Eu sou a **Bia Ordine**, estudante de Desenvolvimento de Sistemas no **SEN
 
 <div align="center">
 
-### 🌸 Um toque de mim:
+### 🌸 A touch of myself:
 
-> _"O que não me mata, me fortalece."_ ✨  
+> _"What doesn't kill me makes me stronger."_ ✨  
 > _— Friedrich Nietzsche _ 
 ---
 
@@ -88,5 +88,5 @@ Olá! Eu sou a **Bia Ordine**, estudante de Desenvolvimento de Sistemas no **SEN
 ---
 
 <p align="center">
-  Feito com 💖 por Bia Ordine
+  Made with 💖 by Bia Ordine
 </p>
