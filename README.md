@@ -1,8 +1,7 @@
 <h1 align="center" style="color:#8A2BE2;">Hello, Word! I'm Bia Ordine, be very welcome! 💓</h1>
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=Desenvolvedora+em+formação;Criando+projetos+com+impacto+social;Estilo%2C+tecnologia+e+propósito!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=Developer+in+the+making;Style%2C+technology+and+purpose!" alt="Typing SVG" />
 </p>
-
 
 ---
 
@@ -22,8 +21,9 @@ I'm **Bia Ordine**, a Systems Development student at **SENAI** and a third-year 
 ![HTML5](https://img.shields.io/badge/-HTML5-FF69B4?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-FF69B4?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-FF69B4?style=flat&logo=javascript&logoColor=white)
+<!--
 ![Flutter](https://img.shields.io/badge/-Flutter-FF69B4?style=flat&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/-Dart-FF69B4?style=flat&logo=dart&logoColor=white)
+![Dart](https://img.shields.io/badge/-Dart-FF69B4?style=flat&logo=dart&logoColor=white)-->
 ![Figma](https://img.shields.io/badge/-Figma-FF69B4?style=flat&logo=figma&logoColor=white)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-FF69B4?style=flat&logo=power-bi&logoColor=white)
 
