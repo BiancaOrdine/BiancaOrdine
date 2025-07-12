@@ -9,7 +9,7 @@
 
 ### 🌸 Sobre mim
 
-Sou **Bia Ordine**, estudante de Desenvolvimento de Sistemas no **SENAI** e aluna do 3º ano do **SESI**. Tenho 17 anos e já estou trilhando minha jornada na programação com muita criatividade, foco e um toque de rosa 💗
+Sou a **Bia Ordine**, estudante de Desenvolvimento de Sistemas no **SENAI** e aluna do 3º ano do **SESI**. Tenho 17 anos e já estou trilhando minha jornada na programação com muita criatividade, foco e um toque de rosa 💗
 
 ---
 
@@ -45,7 +45,7 @@ Sou **Bia Ordine**, estudante de Desenvolvimento de Sistemas no **SENAI** e alun
 
 <div align="center">
 
-![Estatísticas da Bianca](https://github-readme-stats.vercel.app/api?username=biancaordine&show_icons=true&theme=radical&title_color=FF69B4&icon_color=FF69B4&text_color=ffffff&bg_color=00000000)
+![Estatísticas](https://github-readme-stats.vercel.app/api?username=biancaordine&show_icons=true&theme=radical&title_color=FF69B4&icon_color=FF69B4&text_color=ffffff&bg_color=00000000)
 
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=biancaordine&layout=compact&theme=radical&title_color=FF69B4&text_color=ffffff&bg_color=00000000)
 
