@@ -1,20 +1,19 @@
 <h1 align="center" style="color:#8A2BE2;">Hello, Word! I'm Bia Ordine, be very welcome! 💓</h1>
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=Developer+in+the+making;Style%2C+technology+and+purpose!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=Desenvolvedora+em+formação;Estilo%2C+tecnologia+e+propósito!" alt="Typing SVG" />
 </p>
 
 ---
 
 <img align="right" height="150em" src="https://i.pinimg.com/originals/8d/8a/6e/8d8a6eb2caa1a0c2e56a8800cf4c6b6b.gif"/>
 
-### 🌸 About me
+### 🌸 Sobre mim
 
-I'm **Bia Ordine**, a Systems Development student at **SENAI** and a third-year student at **SESI**. I'm 17 years old, but I'm already on my programming journey with a lot of creativity, focus and a touch of pink 💗
-
+Sou **Bia Ordine**, estudante de Desenvolvimento de Sistemas no **SENAI** e aluna do 3º ano do **SESI**. Tenho 17 anos e já estou trilhando minha jornada na programação com muita criatividade, foco e um toque de rosa 💗
 
 ---
 
-### ⚙️ Skills & Tools
+### ⚙️ Habilidades & Ferramentas
 
 <div align="center">
 
@@ -31,30 +30,30 @@ I'm **Bia Ordine**, a Systems Development student at **SENAI** and a third-year 
 
 ---
 <!--
- ### 📌 Projetos em destaque
+### 📌 Projetos em destaque
 
 | Projeto | Descrição | Tecnologias |
 |--------|-----------|--------------|
-| **Frases do Dia** | App motivacional com frases aleatórias, em Flutter. | Flutter, Dart |
+| **Frases do Dia** | App motivacional com frases aleatórias, feito em Flutter. | Flutter, Dart |
 | **Sistema de Agendamento SENAI** | WebApp para agendamento com analista de qualidade de vida. | HTML, CSS, JS, Firebase |
-| **Sites para Microempreendedores** | Desenvolvimento de sites modernos para MEIs. | Front-End Responsivo |
+| **Sites para Microempreendedores** | Criação de sites modernos e responsivos para MEIs. | Front-End Responsivo |
 
 ---
 -->
 
-### 📈 GitHub Statistics
+### 📈 Estatísticas do GitHub
 
 <div align="center">
 
-![Bianca's GitHub Stats](https://github-readme-stats.vercel.app/api?username=biancaordine&show_icons=true&theme=radical&title_color=FF69B4&icon_color=FF69B4&text_color=ffffff&bg_color=00000000)
+![Estatísticas da Bianca](https://github-readme-stats.vercel.app/api?username=biancaordine&show_icons=true&theme=radical&title_color=FF69B4&icon_color=FF69B4&text_color=ffffff&bg_color=00000000)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=biancaordine&layout=compact&theme=radical&title_color=FF69B4&text_color=ffffff&bg_color=00000000)
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=biancaordine&layout=compact&theme=radical&title_color=FF69B4&text_color=ffffff&bg_color=00000000)
 
 </div>
 
 ---
 
-### 🤝 Talk To Me
+### 🤝 Fale Comigo
 
 <div align="center">
 
@@ -74,10 +73,11 @@ I'm **Bia Ordine**, a Systems Development student at **SENAI** and a third-year 
 
 <div align="center">
 
-### 🌸 A touch of myself:
+### 🌸 Um toque pessoal:
 
-> _"What doesn't kill me makes me stronger."_ ✨  
-> _— Friedrich Nietzsche _ 
+> _"O que não me mata me fortalece."_ ✨  
+> _— Friedrich Nietzsche_ 
+
 ---
 
 <br/><br/>
@@ -88,5 +88,5 @@ I'm **Bia Ordine**, a Systems Development student at **SENAI** and a third-year 
 ---
 
 <p align="center">
-  Made with 💖 by Bia Ordine
+  Feito com 💖 por Bia Ordine
 </p>
