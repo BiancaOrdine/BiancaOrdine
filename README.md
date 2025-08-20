@@ -25,6 +25,9 @@ Sou a **Bia Ordine**, estudante de Desenvolvimento de Sistemas no **SENAI** e al
 ![Dart](https://img.shields.io/badge/-Dart-FF69B4?style=flat&logo=dart&logoColor=white)-->
 ![Figma](https://img.shields.io/badge/-Figma-FF69B4?style=flat&logo=figma&logoColor=white)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-FF69B4?style=flat&logo=power-bi&logoColor=white)
+![Power Apps](https://img.shields.io/badge/-Power%20Apps-FF69B4?style=flat&logo=powerapps&logoColor=white)
+![Ionic](https://img.shields.io/badge/-Ionic-FF69B4?style=flat&logo=ionic&logoColor=white)
+![Angular](https://img.shields.io/badge/-Angular-FF69B4?style=flat&logo=angular&logoColor=white)
 
 </div>
 
