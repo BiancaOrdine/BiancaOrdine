@@ -1,95 +1,118 @@
-<h1 align="center" style="color:#8A2BE2;">Hello, World! I'm Bia Ordine, be very welcome! 💓</h1>
+# Hello, World! I'm Bia Ordine 💗
+
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=Desenvolvedora+em+formação;Estilo%2C+tecnologia+e+propósito!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=20&pause=1000&color=B85D7B&center=true&vCenter=true&width=550&lines=Estudante+de+Engenharia+de+Software;Aprendendo+e+construindo+projetos;Tecnologia%2C+dados+e+criatividade" alt="Animação de apresentação"/>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/biancaordine/">
+    <img src="https://img.shields.io/badge/LinkedIn-B85D7B?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:ordinebianca@gmail.com">
+    <img src="https://img.shields.io/badge/Email-E8C3CE?style=flat-square&logo=gmail&logoColor=35313A" alt="E-mail"/>
+  </a>
+  <a href="https://github.com/BiancaOrdine">
+    <img src="https://img.shields.io/badge/GitHub-765064?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
 </p>
 
 ---
 
-<img align="right" height="150em" src="https://i.pinimg.com/originals/8d/8a/6e/8d8a6eb2caa1a0c2e56a8800cf4c6b6b.gif"/>
-
 ### 🌸 Sobre mim
 
-Sou a **Bia Ordine**, estudante de Desenvolvimento de Sistemas no **SENAI** e aluna do 3º ano do **SESI**. Tenho 17 anos e já estou trilhando minha jornada na programação com muita criatividade, foco e um toque de rosa 💗
+Sou a **Bia Ordine**, estudante de **Engenharia de Software na UMC**.
 
----
+Minha trajetória em tecnologia começou durante o curso técnico em Desenvolvimento de Sistemas no SENAI, junto ao ensino médio no SESI. Desde então, venho explorando diferentes áreas por meio de projetos, cursos e experiências práticas.
 
-### ⚙️ Habilidades & Ferramentas
+Tenho interesse em **dados, qualidade de software, desenvolvimento de soluções digitais e gestão de projetos**. Gosto de explorar ferramentas, entender problemas e transformar ideias em projetos que possam ser utilizados na prática.
 
-<div align="center">
+Atualmente, estou ampliando meus conhecimentos em Python, processamento de dados e desenvolvimento de aplicações, sempre buscando novas oportunidades para aprender e colocar minhas ideias em prática.
 
-![HTML5](https://img.shields.io/badge/-HTML5-FF69B4?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-FF69B4?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-FF69B4?style=flat&logo=javascript&logoColor=white)
-<!--
-![Flutter](https://img.shields.io/badge/-Flutter-FF69B4?style=flat&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/-Dart-FF69B4?style=flat&logo=dart&logoColor=white)-->
-![Figma](https://img.shields.io/badge/-Figma-FF69B4?style=flat&logo=figma&logoColor=white)
-![Power BI](https://img.shields.io/badge/-Power%20BI-FF69B4?style=flat&logo=power-bi&logoColor=white)
-![Power Apps](https://img.shields.io/badge/-Power%20Apps-FF69B4?style=flat&logo=powerapps&logoColor=white)
-![Ionic](https://img.shields.io/badge/-Ionic-FF69B4?style=flat&logo=ionic&logoColor=white)
-![Angular](https://img.shields.io/badge/-Angular-FF69B4?style=flat&logo=angular&logoColor=white)
+### 🛠️ Habilidades e ferramentas
 
-</div>
+**Dados e análise**
 
----
-<!--
-### 📌 Projetos em destaque
+<p>
+  <img src="https://img.shields.io/badge/Python-765064?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/PySpark-B85D7B?style=flat-square&logo=apachespark&logoColor=white" alt="PySpark"/>
+  <img src="https://img.shields.io/badge/Pandas-E8C3CE?style=flat-square&logo=pandas&logoColor=35313A" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/Plotly-765064?style=flat-square&logo=plotly&logoColor=white" alt="Plotly"/>
+  <img src="https://img.shields.io/badge/Power_BI-B85D7B?style=flat-square&logo=powerbi&logoColor=white" alt="Power BI"/>
+  <img src="https://img.shields.io/badge/SQL-E8C3CE?style=flat-square&logo=postgresql&logoColor=35313A" alt="SQL"/>
+</p>
 
-| Projeto | Descrição | Tecnologias |
-|--------|-----------|--------------|
-| **Frases do Dia** | App motivacional com frases aleatórias, feito em Flutter. | Flutter, Dart |
-| **Sistema de Agendamento SENAI** | WebApp para agendamento com analista de qualidade de vida. | HTML, CSS, JS, Firebase |
-| **Sites para Microempreendedores** | Criação de sites modernos e responsivos para MEIs. | Front-End Responsivo |
+**Desenvolvimento e bancos de dados**
 
----
--->
+<p>
+  <img src="https://img.shields.io/badge/Streamlit-B85D7B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit"/>
+  <img src="https://img.shields.io/badge/Supabase-765064?style=flat-square&logo=supabase&logoColor=white" alt="Supabase"/>
+  <img src="https://img.shields.io/badge/HTML5-E8C3CE?style=flat-square&logo=html5&logoColor=35313A" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-B85D7B?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-765064?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript"/>
+</p>
 
-### 📈 Estatísticas do GitHub
+**Ferramentas e design**
 
-<div align="center">
+<p>
+  <img src="https://img.shields.io/badge/Git-E8C3CE?style=flat-square&logo=git&logoColor=35313A" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-B85D7B?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Power_Apps-765064?style=flat-square&logo=powerapps&logoColor=white" alt="Power Apps"/>
+  <img src="https://img.shields.io/badge/Figma-E8C3CE?style=flat-square&logo=figma&logoColor=35313A" alt="Figma"/>
+</p>
 
-![Estatísticas](https://github-readme-stats.vercel.app/api?username=biancaordine&show_icons=true&theme=radical&title_color=FF69B4&icon_color=FF69B4&text_color=ffffff&bg_color=00000000)
+### 💻 Projeto em destaque
 
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=biancaordine&layout=compact&theme=radical&title_color=FF69B4&text_color=ffffff&bg_color=00000000)
+#### Data Quality Studio
 
-</div>
+Projeto de análise e qualidade de dados desenvolvido para consultar, validar e visualizar informações de compras e pedidos.
 
----
+- Processamento de dados com **Python e PySpark**.
+- Identificação de registros duplicados e inconsistências.
+- Comparação entre valores registrados e valores calculados das compras.
+- Desenvolvimento de dashboards e visualizações interativas.
+- Construção da aplicação com **Streamlit, Pandas e Plotly**.
+- Integração com **Supabase** na versão com funcionalidades de cadastro, consulta, edição e exclusão (CRUD).
 
-### 🤝 Fale Comigo
+<p>
+  <a href="https://data-quality-studio-crud.streamlit.app/">
+    <img src="https://img.shields.io/badge/Acessar_aplicação-765064?style=for-the-badge&logo=streamlit&logoColor=white" alt="Acessar aplicação"/>
+  </a>
+</p>
 
-<div align="center">
+O que começou como um exercício de processamento de dados se tornou um projeto próprio, com novas funcionalidades e possibilidades de expansão.
 
-<a href="mailto:ordinebianca@gmail.com">
-  <img src="https://img.shields.io/badge/-Email-FF69B4?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/bianca-ordine/">
-  <img src="https://img.shields.io/badge/-LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://github.com/BiancaOrdine">
-  <img src="https://img.shields.io/badge/-GitHub-FF69B4?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+### 📚 Formação e aprendizado
 
-</div>
+- Engenharia de Software — UMC.
+- Fundamentos da Microsoft Power Platform e PL-900 — SENAI.
+- Técnico em Desenvolvimento de Sistemas — SENAI.
+- Power BI — SENAI.
+- Análise de dados, qualidade de dados e visualização.
+- Desenvolvimento de aplicações e integração com bancos de dados.
+- Organização de projetos e desenvolvimento de soluções de software.
 
----
+### 📊 Estatísticas do GitHub
 
-<div align="center">
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=BiancaOrdine&show_icons=true&hide_border=true&title_color=B85D7B&icon_color=B85D7B&text_color=655965&bg_color=FBF8F5" alt="Estatísticas do GitHub"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BiancaOrdine&layout=compact&hide_border=true&title_color=B85D7B&text_color=655965&bg_color=FBF8F5" alt="Linguagens mais utilizadas"/>
+</p>
 
-### 🌸 Um toque pessoal:
+### 🤝 Vamos nos conectar?
 
-> _"O que não me mata me fortalece."_ ✨  
-> _— Friedrich Nietzsche_ 
-
----
-
-<br/><br/>
-<img src="https://capsule-render.vercel.app/api?type=wave&color=FF69B4&height=100&section=footer"/>
-
-</div>
+<p align="center">
+  <a href="mailto:ordinebianca@gmail.com">
+    <img src="https://img.shields.io/badge/E--mail-Entre_em_contato-B85D7B?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/biancaordine/">
+    <img src="https://img.shields.io/badge/LinkedIn-Me_encontre_por_lá-765064?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
 
 ---
 
 <p align="center">
-  Feito com 💖 por Bia Ordine
+  <i>Aprendendo, construindo e descobrindo novas possibilidades na tecnologia.</i>
+  <br/><br/>
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=B85D7B&height=100&section=footer" alt="Rodapé rosa"/>
 </p>
