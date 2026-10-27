@@ -11,16 +11,8 @@
   <img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
-<br />
-
 <a href="https://github.com/BiancaOrdine">
   <img src="https://img.shields.io/badge/GitHub-FF69B4?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-
-<br />
-
-<a href="https://data-quality-studio-bia.streamlit.app/">
-  <img src="https://img.shields.io/badge/Data%20Quality%20Studio-FF69B4?style=for-the-badge&logo=streamlit&logoColor=white" alt="Data Quality Studio" />
 </a>
 
 </div>
@@ -124,8 +116,6 @@ Projeto de análise e qualidade de dados desenvolvido com Python e PySpark para 
 <a href="https://data-quality-studio-bia.streamlit.app/">
   <img src="https://img.shields.io/badge/Acessar%20site-FF69B4?style=for-the-badge&logo=streamlit&logoColor=white" alt="Acessar site" />
 </a>
-
-<br />
 
 <a href="https://github.com/BiancaOrdine/data-quality-studio">
   <img src="https://img.shields.io/badge/Ver%20repositório-FF69B4?style=for-the-badge&logo=github&logoColor=white" alt="Ver repositório" />
