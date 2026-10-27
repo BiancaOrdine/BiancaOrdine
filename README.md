@@ -163,13 +163,11 @@ Projeto de análise e qualidade de dados desenvolvido com Python e PySpark para 
   <img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
-<br />
-
 <a href="https://github.com/BiancaOrdine">
   <img src="https://img.shields.io/badge/GitHub-FF69B4?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
-<br /><br />
+<br />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=100&section=footer" width="100%" alt="Rodapé rosa" />
 
