@@ -1,14 +1,26 @@
+
 <div align="center">
 
 # Hello, World! I'm Bia Ordine 💗
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Estudante+de+Engenharia+de+Software;Aprendendo+e+construindo+projetos;Tecnologia%2C+dados+e+criatividade" alt="Apresentação animada" />
 
+<br />
+
 <a href="https://www.linkedin.com/in/biancaordine/">
   <img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
+
+<br />
+
 <a href="https://github.com/BiancaOrdine">
   <img src="https://img.shields.io/badge/GitHub-FF69B4?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+
+<br />
+
+<a href="https://data-quality-studio-bia.streamlit.app/">
+  <img src="https://img.shields.io/badge/Data%20Quality%20Studio-FF69B4?style=for-the-badge&logo=streamlit&logoColor=white" alt="Data Quality Studio" />
 </a>
 
 </div>
@@ -99,6 +111,7 @@ Atualmente, estou ampliando meus conhecimentos em Python, processamento de dados
 Projeto de análise e qualidade de dados desenvolvido com Python e PySpark para processar informações de compras e pedidos, identificar duplicidades e inconsistências e facilitar a visualização dos resultados por meio de um dashboard interativo.
 
 **Principais funcionalidades da versão pública:**
+
 - Processamento e limpeza de dados com PySpark.
 - Identificação de registros duplicados e inconsistências.
 - Validação de informações de compras e pedidos.
@@ -107,6 +120,12 @@ Projeto de análise e qualidade de dados desenvolvido com Python e PySpark para 
 **Tecnologias:** Python, PySpark, Pandas, Plotly e Streamlit.
 
 <div align="center">
+
+<a href="https://data-quality-studio-bia.streamlit.app/">
+  <img src="https://img.shields.io/badge/Acessar%20site-FF69B4?style=for-the-badge&logo=streamlit&logoColor=white" alt="Acessar site" />
+</a>
+
+<br />
 
 <a href="https://github.com/BiancaOrdine/data-quality-studio">
   <img src="https://img.shields.io/badge/Ver%20repositório-FF69B4?style=for-the-badge&logo=github&logoColor=white" alt="Ver repositório" />
@@ -127,8 +146,6 @@ Projeto de análise e qualidade de dados desenvolvido com Python e PySpark para 
 **Power BI** — SENAI *(32h)*
 
 **Microsoft Power Platform e PL-900** — SENAI *(40h)*
-
-**Comunicação Oral e Escrita** — IFMG *(30h)*
 
 **Áreas de estudo:** análise e qualidade de dados, visualização de dados, desenvolvimento de aplicações, integração com bancos de dados, organização de projetos e soluções de software.
 
@@ -155,6 +172,9 @@ Projeto de análise e qualidade de dados desenvolvido com Python e PySpark para 
 <a href="https://www.linkedin.com/in/biancaordine/">
   <img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
+
+<br />
+
 <a href="https://github.com/BiancaOrdine">
   <img src="https://img.shields.io/badge/GitHub-FF69B4?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
